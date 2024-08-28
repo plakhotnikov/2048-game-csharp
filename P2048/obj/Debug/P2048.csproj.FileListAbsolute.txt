@@ -1,0 +1,37 @@
+C:\Users\Admin\AppData\Local\Temporary Projects\P2048\bin\Debug\P2048.exe.config
+C:\Users\Admin\AppData\Local\Temporary Projects\P2048\bin\Debug\P2048.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\P2048\bin\Debug\P2048.pdb
+C:\Users\Admin\AppData\Local\Temporary Projects\P2048\obj\Debug\P2048.csprojResolveAssemblyReference.cache
+C:\Users\Admin\AppData\Local\Temporary Projects\P2048\obj\Debug\P2048.Form1.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\P2048\obj\Debug\P2048.Properties.Resources.resources
+C:\Users\Admin\AppData\Local\Temporary Projects\P2048\obj\Debug\P2048.csproj.GenerateResource.Cache
+C:\Users\Admin\AppData\Local\Temporary Projects\P2048\obj\Debug\P2048.exe
+C:\Users\Admin\AppData\Local\Temporary Projects\P2048\obj\Debug\P2048.pdb
+D:\Teach\Программирование\dl\100ArrayAlgo\P2048\P2048\bin\Debug\P2048.exe.config
+D:\Teach\Программирование\dl\100ArrayAlgo\P2048\P2048\obj\Debug\P2048.exe
+D:\Teach\Программирование\dl\100ArrayAlgo\P2048\P2048\obj\Debug\P2048.pdb
+D:\Teach\Программирование\dl\100ArrayAlgo\P2048\P2048\bin\Debug\P2048.exe
+D:\Teach\Программирование\dl\100ArrayAlgo\P2048\P2048\bin\Debug\P2048.pdb
+D:\Teach\Программирование\dl\100ArrayAlgo\P2048\P2048\obj\Debug\P2048.csprojResolveAssemblyReference.cache
+D:\Teach\Программирование\dl\100ArrayAlgo\P2048\P2048\obj\Debug\P2048.Form1.resources
+D:\Teach\Программирование\dl\100ArrayAlgo\P2048\P2048\obj\Debug\P2048.Properties.Resources.resources
+D:\Teach\Программирование\dl\100ArrayAlgo\P2048\P2048\obj\Debug\P2048.csproj.GenerateResource.Cache
+D:\Users\P2048\P2048\bin\Debug\P2048.exe.config
+D:\Users\P2048\P2048\bin\Debug\P2048.exe
+D:\Users\P2048\P2048\bin\Debug\P2048.pdb
+D:\Users\P2048\P2048\obj\Debug\P2048.csprojResolveAssemblyReference.cache
+D:\Users\P2048\P2048\obj\Debug\P2048.Form1.resources
+D:\Users\P2048\P2048\obj\Debug\P2048.Properties.Resources.resources
+D:\Users\P2048\P2048\obj\Debug\P2048.csproj.GenerateResource.Cache
+D:\Users\P2048\P2048\obj\Debug\P2048.exe
+D:\Users\P2048\P2048\obj\Debug\P2048.pdb
+C:\Users\admin\Desktop\Новая папка\P2048\P2048\bin\Debug\P2048.exe.config
+C:\Users\admin\Desktop\Новая папка\P2048\P2048\bin\Debug\P2048.exe
+C:\Users\admin\Desktop\Новая папка\P2048\P2048\bin\Debug\P2048.pdb
+C:\Users\admin\Desktop\Новая папка\P2048\P2048\obj\Debug\P2048.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Новая папка\P2048\P2048\obj\Debug\P2048.Form1.resources
+C:\Users\admin\Desktop\Новая папка\P2048\P2048\obj\Debug\P2048.Properties.Resources.resources
+C:\Users\admin\Desktop\Новая папка\P2048\P2048\obj\Debug\P2048.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Новая папка\P2048\P2048\obj\Debug\P2048.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Новая папка\P2048\P2048\obj\Debug\P2048.exe
+C:\Users\admin\Desktop\Новая папка\P2048\P2048\obj\Debug\P2048.pdb
